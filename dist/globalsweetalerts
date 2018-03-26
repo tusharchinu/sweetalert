@@ -1,0 +1,2 @@
+//Replace SYS_ID with the sys_id of css record which you have created in second step.
+document.write('<link href="<SYS_ID>.cssdbx" rel="stylesheet" type="text/css" /><script></script>');
